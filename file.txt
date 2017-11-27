@@ -1,4 +1,0 @@
-echo "oi"
-echo "oi"
-echo "ola"
-echo "olazinho meu amigo"
